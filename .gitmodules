@@ -1,0 +1,33 @@
+[submodule "usvm"]
+	path = usvm
+	url = https://github.com/eigenform/usvm.git
+[submodule "SVMLib"]
+	path = SVMLib
+	url = https://github.com/BridgeCore-OS/SVMLib.git
+[submodule "grr"]
+	path = grr
+	url = https://github.com/kukrimate/grr.git
+[submodule "vmrun"]
+	path = vmrun
+	url = https://github.com/eliaskousk/vmrun.git
+[submodule "vmlaunch"]
+	path = vmlaunch
+	url = https://github.com/vishmohan/vmlaunch.git
+[submodule "cpuio"]
+	path = cpuio
+	url = https://github.com/Luis-Hebendanz/cpuio.git
+[submodule "amd-hypervisor"]
+	path = amd-hypervisor
+	url = https://github.com/sariaki/amd-hypervisor.git
+[submodule "SimpleSvmHook"]
+	path = SimpleSvmHook
+	url = https://github.com/tandasat/SimpleSvmHook.git
+[submodule "HookMsrBySVM"]
+	path = HookMsrBySVM
+	url = https://github.com/hrbust86/HookMsrBySVM.git
+[submodule "SvmNest"]
+	path = SvmNest
+	url = https://github.com/hrbust86/SvmNest.git
+[submodule "SimpleSvm"]
+	path = SimpleSvm
+	url = https://github.com/tandasat/SimpleSvm.git
